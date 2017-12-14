@@ -1,15 +1,17 @@
 #navbar {
   overflow: hidden;
-  background-color: #acb1ff;
+  background-color: #7D7D7D;
   position: sticky;
 }
 
 #navbar a {
   float: left;
   display: block;
-  color: #abcbff;
+  color: #FEFEFE;
   text-align: center;
   margin: 10px;
   padding: 10px;
   text-decoration: none;
+  font-weight: bold;
+  font-family: monospace;
 }

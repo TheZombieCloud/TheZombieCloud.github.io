@@ -2,9 +2,13 @@
   overflow: hidden;
   background-color: #7D7D7D;
   position: sticky;
+  left: 0px;
+  top: 0px;
 }
 
 #navbar a {
+  left: 0px;
+  top: 0px;
   float: left;
   display: block;
   color: #FEFEFE;
